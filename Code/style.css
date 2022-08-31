@@ -1,0 +1,110 @@
+#main {
+    
+	text-align:center;
+	font-size:30px;
+}
+#main #title {
+    
+    font-size:60px;
+	font-style:bold;
+	margin-top:20px;
+}
+#instructions {
+    text-align:center;
+	font-size: 30px;
+}
+#instructions ul {
+    list-style-type:square;
+	text-align:left;
+	font-size:30px;
+	margin-left: 30%;
+}
+body {
+    background-color:#9beeaf;
+    margin:0;
+    padding:0;
+    font:13px arial;
+}
+#Board{
+    border:1px solid rgb(0, 0, 0);
+    margin:0px 0 0 0px;
+	left:10px;
+	top:10px;
+	background-color:black;
+	height:;
+	width:
+}
+
+#snake0{
+	position:absolute;
+    left:0;
+	top:0;
+	height:10px;
+	}
+#snake1{
+	position:absolute;
+	left:0;
+	top:0;
+	height:10px;
+	}
+#snake2
+{
+	position:absolute;
+	left:0;
+	top:0;
+	height:10px;
+	}
+
+	#scoreLabel{
+		position:absolute;
+		height:23;
+		width:63;
+		left:1550px;
+		top:13px;
+		font-weight: bold;
+		font-size:60px;
+		}
+	#scoreText{
+		background-color:#bfdef0;
+		border:none;
+		position:absolute;
+		height:70;
+		width:170px;
+		left:1720px;
+		top:14px;
+		size:20px;
+		font-size:60px;
+		}
+/* #score1{
+	background-color:#dac9c9;
+	border:none;
+	position:absolute;
+	height:170;
+	width:170px;
+	left:1550px;
+	top:43px;
+	size:20px;
+	font-size:60px;
+} */
+#inputText{
+	background-color:#8db1e9;
+	position:absolute;
+	height:80;
+	width:340px;
+	left:1550px;
+	top:250px;
+	font-weight: bold;
+	font-size:60px;
+}
+input[name=score1] {
+	background-color:#fff7f7;
+	border:none;
+	position:absolute;
+	height:80;
+	width:340px;
+	left:1550px;
+	top:150px;
+	size:20px;
+	font-size:30px;
+  }
+
